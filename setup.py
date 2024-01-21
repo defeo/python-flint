@@ -100,6 +100,8 @@ ext_files = [
     ("flint.types.fmpz_mod_poly", ["src/flint/types/fmpz_mod_poly.pyx"]),
     ("flint.types.fmpz_mod_mat", ["src/flint/types/fmpz_mod_mat.pyx"]),
 
+    ("flint.types.fq_default", ["src/flint/types/fq_default.pyx"]),
+    
     ("flint.types.arf", ["src/flint/types/arf.pyx"]),
     ("flint.types.arb", ["src/flint/types/arb.pyx"]),
     ("flint.types.arb_poly", ["src/flint/types/arb_poly.pyx"]),

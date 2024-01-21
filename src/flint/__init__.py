@@ -20,6 +20,8 @@ from .types.fmpz_mod import *
 from .types.fmpz_mod_poly import *
 from .types.fmpz_mod_mat import fmpz_mod_mat
 
+from .types.fq_default import *
+
 from .types.arf import *
 from .types.arb import *
 from .types.arb_poly import *
